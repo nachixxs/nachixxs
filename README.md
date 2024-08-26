@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hola 👋, Soy Nacho
 
-<!--
-**nachixxs/nachixxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la Tecnicatura en Programación en la Universidad Tecnologica Nacional de San Rafael Mendoza
 
-Here are some ideas to get you started:
+Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: Java, Python
+- Frontend: HTML5, CSS3, Javascript, Vue
+- Database: MySql
+- Control de Versiones: Git
+- IDE: Intellij IDEA, VS Code, Netbeans
+- Sistema Operativo: Windows
+- Manejo de Proyectos:Scrum
+
+Soft Skills:
+
+- Resolución de problemas, Trabajo en equipo, Comunicación 
+
+![Nacho's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
