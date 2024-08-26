@@ -10,7 +10,7 @@ Tech Stack:
 - Control de Versiones: Git
 - IDE: Intellij IDEA, VS Code, Netbeans
 - Sistema Operativo: Windows
-- Manejo de Proyectos:Scrum
+- Manejo de Proyectos: Scrum
 
 Soft Skills:
 
