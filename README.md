@@ -16,4 +16,4 @@ Soft Skills:
 
 - Resolución de problemas, Trabajo en equipo, Comunicación 
 
-![Nacho's github stats](https://github-readme-stats.vercel.app/api?username=IhChowdhury&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nachixxs&show_icons=true&theme=radical)
