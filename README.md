@@ -7,7 +7,7 @@ Tech Stack:
 - Backend: Java, Python
 - Frontend: HTML5, CSS3, Javascript, Vue
 - Database: MySql
-- Control de Versiones: Git
+- Control de Versiones: Git Bash, GitHub
 - IDE: Intellij IDEA, VS Code, Netbeans
 - Sistema Operativo: Windows
 - Manejo de Proyectos: Scrum
