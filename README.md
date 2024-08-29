@@ -1,6 +1,6 @@
 ### Hola 👋, Soy Nacho
 
-Estudiante de la Tecnicatura en Programación en la Universidad Tecnologica Nacional de San Rafael Mendoza
+Estudiante de la Tecnicatura en Programación en la Universidad Tecnologica Nacional de San Rafael Mendoza.
 
 Tech Stack:
 
@@ -14,6 +14,6 @@ Tech Stack:
 
 Soft Skills:
 
-- Resolución de problemas, Trabajo en equipo, Comunicación 
+- Resolución de problemas, Trabajo en equipo, Comunicación.
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nachixxs&show_icons=true&theme=radical)
