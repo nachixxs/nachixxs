@@ -12,8 +12,4 @@ Tech Stack:
 - Sistema Operativo: Windows
 - Manejo de Proyectos: Scrum
 
-Soft Skills:
-
-- Resolución de problemas, Trabajo en equipo, Comunicación.
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nachixxs&show_icons=true&theme=radical)
