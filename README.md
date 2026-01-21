@@ -1,16 +1,17 @@
-### Hola 👋, Soy Nacho
+# Ignacio Noguerol
 
-Estudiante de la Tecnicatura en Programación en la Universidad Tecnologica Nacional de San Rafael Mendoza.
+Desarrollador enfocado en automatizaciones y análisis de datos.
 
-## 🚀 Tech Stack (en aprendizaje y práctica)
+## 🛠️ Tecnologías
+- **Programación**: Python
+- **Bases de datos**: MySQL
+- **Control de versiones**: Git, GitHub
+- **Aprendiendo actualmente**: n8n (automatizaciones)
 
-- 🐍 **Lenguajes:** Python, SQL  
-- 🤖 **Machine Learning / IA:** NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow *(aprendiendo)*, PyTorch *(aprendiendo)*  
-- ⚙️ **Automatización:** Selenium, BeautifulSoup, Scripting en Python  
-- 🗄️ **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
-- ☁️ **Cloud & DevOps:** Docker 🐳, GitHub Actions, AWS *(aprendiendo)*, Google Cloud *(aprendiendo)*  
-- 🛠️ **Control de Versiones:** Git, GitHub  
-- 💻 **Entornos de Desarrollo:** VS Code, Jupyter Notebook  
-- 📌 **Metodologías:** Scrum, Proyectos Ágiles  
+## 📂 Repositorios
+Proyectos de práctica y aprendizaje en Python y MySQL.
+
+## 📫 Contacto
+- GitHub: [@nachixxs](https://github.com/nachixxs) 
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nachixxs&show_icons=true&theme=radical)
