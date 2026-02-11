@@ -60,14 +60,6 @@ Portfolio de workflows automatizados con IA *(En desarrollo)*
 
 ---
 
-## 📊 Estadísticas GitHub
-
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachixxs&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachixxs&layout=compact&hide_border=true)
-
----
-
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/)
