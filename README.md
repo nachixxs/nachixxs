@@ -1,78 +1,60 @@
-# Ignacio Noguerol
+# 👋 Hola, soy Ignacio
 
-**Especialista en Automatizaciones con IA** | Optimizo procesos empresariales con soluciones inteligentes
-
-Técnico Universitario en Programación (UTN) enfocado en crear automatizaciones que ahorran tiempo y costos. Combino formación académica, programación y herramientas de automatización para construir flujos de trabajo inteligentes que escalan negocios.
-
----
-
-## 🎓 Formación
-
-**Técnico Universitario en Programación**  
-Universidad Tecnológica Nacional (UTN) - San Rafael, Mendoza  
-*2023 - 2025 | Cursada completa - En proceso de pasantía*
+**Técnico en Programación | UTN San Rafael**  
+**Desarrollador enfocado en IA y Automatizaciones**
 
 ---
-## 🚀 Especialidades
 
-- **Automatización de workflows** con n8n
-- **Integración de servicios** (Gmail, Sheets, Slack, CRMs, APIs REST)
-- **Procesamiento inteligente de datos** con Python
-- **Desarrollo de bots y asistentes con IA**
-- **Sistemas de notificaciones y alertas automáticas**
-- **Web scraping y extracción de datos**
+## 🚀 Sobre mí
+
+- 🎓 Tecnicatura en Programación (UTN San Rafael) - Completada Nov 2025
+- 💼 Construyendo automatizaciones con IA para optimizar procesos empresariales
+- 🌱 Actualmente profundizando en React y desarrollo full-stack
+- 🎯 Buscando oportunidad de pasantía para sumar experiencia profesional
+- 📍 General Alvear, Mendoza, Argentina
+- 🇬🇧 Inglés B2-C1
 
 ---
 
 ## 🛠️ Stack Técnico
 
-**Automatización:**
-- n8n (Low-code automation)
-- Webhooks & APIs REST
-- Cron scheduling
+**Lenguajes:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Programación
-- **Python** (intermedio) - Scripts, data processing, bots
-- **JavaScript** (básico) - n8n code nodes, automation
-- **Java** (intermedio) - Proyecto final universitario
-- **SQL** - MySQL, PostgreSQL
+**Herramientas & Frameworks:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Integraciones & APIs
-- **Google Workspace** (Gmail, Sheets, Drive, Calendar)
-- **Slack** - Notificaciones y bots
-- **OpenAI API** - Integración GPT
-- **Anthropic Claude API** - Asistentes IA
-- **Telegram Bot API**
-- **APIs REST** - Consumo e integración
-
-### Herramientas & DevOps
-- **Git & GitHub** - Control de versiones
-- **Postman** - Testing de APIs
-- **VS Code** - Desarrollo
+**Áreas de interés:**  
+🤖 Inteligencia Artificial | ⚙️ Automatizaciones | 🔗 APIs | 📊 Procesamiento de Datos
 
 ---
 
-## 📂 Proyectos Destacados
+## 📌 Proyectos Destacados
 
-🔹 **[n8n-automatizaciones](https://github.com/nachixxs/n8n-automatizaciones)** - 8 automatizaciones listas para producción  *(en desarrollo)*
-🔹 **[ejercicios-python](https://github.com/nachixxs/ejercicios-python)** - 50+ ejercicios resueltos *(en desarrollo)*
+### 🔄 [Portfolio de Automatizaciones con IA](link-a-repo)
+Colección de 5 workflows automatizados con n8n integrando múltiples APIs y servicios
+- Procesamiento de datos en tiempo real
+- Webhooks y notificaciones automáticas
+- Integración con Google Sheets, APIs externas y bases de datos
 
----
-
-## 📈 Actualmente
-
-- ✅ Construyendo agencia de automatizaciones con IA
-- 🎯 Ayudando a PyMEs a escalar sin aumentar costos operativos
+### ☕ [Sistema de Gestión - Java](link-a-proyecto-java)
+Aplicación backend desarrollada como proyecto final de la tecnicatura
+- Arquitectura MVC con Java
+- Base de datos MySQL
+- [Describe features principales]
 
 ---
 
 ## 📫 Contacto
 
-- **GitHub:** [@nachixxs](https://github.com/nachixxs)
-- **LinkedIn:** [Tu perfil LinkedIn](#) *(en desarrollo)*
-- **Email:** ignacionogpa@gmail.com
-- **Portfolio:** [Ver portfolio](#) *(en desarrollo)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](ignacionogpa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](En desarrollo)
 
----
-
-💡 *¿Necesitás automatizar procesos en tu negocio? Hablemos.*
