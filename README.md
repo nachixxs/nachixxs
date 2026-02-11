@@ -38,23 +38,37 @@
 
 ## 📌 Proyectos Destacados
 
-### 🔄 [Portfolio de Automatizaciones con IA](link-a-repo)
-Colección de 5 workflows automatizados con n8n integrando múltiples APIs y servicios
+### 🛒 [E-Commerce Full-Stack](https://github.com/nachixxs/proyecto-java-utn)
+Plataforma de comercio electrónico con backend Java y frontend JavaScript
+- Arquitectura MVC con Java
+- Base de datos relacional MySQL
+- Sistema de autenticación y gestión de pedidos
+- **Proyecto grupal de 7 personas - 87 commits**
+
+### 🐍 [Ejercicios Python](https://github.com/nachixxs/ejercicios-python)
+Colección de +50 ejercicios prácticos de Python
+- Estructuras de datos (listas, diccionarios, tuplas)
+- Programación Orientada a Objetos
+- Funciones y manejo de archivos
+- **Documentación de progreso en aprendizaje**
+
+### 🔄 [Automatizaciones n8n](https://github.com/nachixxs/n8n-automatizaciones)
+Portfolio de workflows automatizados con IA *(En desarrollo)*
+- Integración de APIs múltiples
 - Procesamiento de datos en tiempo real
 - Webhooks y notificaciones automáticas
-- Integración con Google Sheets, APIs externas y bases de datos
 
-### ☕ [Sistema de Gestión - Java](link-a-proyecto-java)
-Aplicación backend desarrollada como proyecto final de la tecnicatura
-- Arquitectura MVC con Java
-- Base de datos MySQL
-- [Describe features principales]
+---
+
+## 📊 Estadísticas GitHub
+
+![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=nachixxs&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachixxs&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](ignacionogpa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](En desarrollo)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ignacionogpa@gmail.com)
