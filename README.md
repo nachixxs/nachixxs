@@ -1,51 +1,73 @@
-# NACHO NOGUEROL
-====================
+# Ignacio Noguerol
 
-Love turning ideas into working AI systems.  
-Currently building automation tools and AI agents.
+Backend & AI Automation Developer  
+Python • FastAPI • AI Agents • Async APIs
 
---------------------
+---
 
-Connect With Me
+## About Me
 
-» X / Twitter   ➜ https://x.com/noguerolnacho_  
-» LinkedIn      ➜ https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/  
-» Email         ➜ ignacionogpa@gmail.com  
+I build automation systems and AI-powered tools focused on solving real-world problems.
 
---------------------
+Currently:
+- Building AI agents and workflow automations
+- Working with async Python APIs
+- Exploring applied NLP and LLM integrations
 
-Skills & Tools
+---
 
-» Languages:   Python, Java, JavaScript  
-» Backend:     FastAPI, asyncio, aiohttp  
-» AI / NLP:    HuggingFace, Transformers, LangChain, n8n  
-» Databases:   PostgreSQL, MySQL  
-» DevOps:      Git, Docker, pytest  
+## Tech Stack
 
---------------------
+**Languages**  
+Python, Java, JavaScript
 
-Featured Projects
+**Backend**  
+FastAPI, asyncio, aiohttp
 
-» CryptoLens CLI  
-  ➜ Real-time crypto market snapshot tool.  
-  ➜ Links: https://github.com/nachixxs/cryptolens-cli  
+**AI / NLP**  
+HuggingFace, Transformers, LangChain, n8n
 
-» n8n Automations  
-  ➜ AI-powered business automation workflows.  
-  ➜ Links: https://github.com/nachixxs/n8n-automatizaciones  
+**Databases**  
+PostgreSQL, MySQL
 
-» Python Exercises  
-  ➜ 100+ exercises from basics to advanced.  
-  ➜ Links: https://github.com/nachixxs/ejercicios-python  
+**Tools**  
+Docker, Git, pytest
 
-» UTN Final Project  
-  ➜ Full-stack e-commerce system (Java + JavaScript).  
-  ➜ Links: https://github.com/nachixxs/proyecto-java-utn  
+---
 
---------------------
+## Selected Projects
 
-Thanks for stopping by :)
+### CryptoLens CLI
+Real-time crypto market snapshot tool built in Python.  
+Focus: API integration, CLI UX, data parsing.  
+https://github.com/nachixxs/cryptolens-cli
 
-Feel free to say hi, share ideas, or grab a virtual coffee ☕
+### n8n Automation Workflows
+AI-powered business automation systems.  
+Focus: workflow orchestration, AI integration, productivity automation.  
+https://github.com/nachixxs/n8n-automatizaciones
 
-Let's build something cool together <3
+### UTN Final Project
+Full-stack e-commerce platform (Java + JavaScript).  
+Focus: backend architecture, database design, frontend integration.  
+https://github.com/nachixxs/proyecto-java-utn
+
+---
+
+## Currently Improving
+
+- System design fundamentals  
+- Scalable backend architecture  
+- Production-ready AI integrations  
+
+---
+
+## Contact
+
+X: https://x.com/noguerolnacho_  
+LinkedIn: https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/  
+Email: ignacionogpa@gmail.com  
+
+---
+
+Let’s build useful things.
