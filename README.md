@@ -1,66 +1,48 @@
-# 👋 Hola, soy Ignacio
+# NACHO NOGUEROL
+================
 
-**Técnico en Programación | UTN San Rafael**  
-**Desarrollador enfocado en IA y Automatizaciones**
+Building AI automation systems and Python tools.
+Currently focused on AI agents, async APIs and NLP applied to real problems.
 
----
+---------------
 
-## 🚀 Sobre mí
+Connect With Me
 
-- 🎓 Tecnicatura en Programación (UTN San Rafael) - Completada Nov 2025
-- 💼 Construyendo automatizaciones con IA para optimizar procesos empresariales
-- 🌱 Actualmente profundizando en React y desarrollo full-stack
-- 🎯 Buscando oportunidad de pasantía para sumar experiencia profesional
-- 📍 General Alvear, Mendoza, Argentina
-- 🇬🇧 Inglés B2-C1
+» X / Twitter  → https://x.com/noguerolnacho_
+» LinkedIn     → https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/
+» Email        → ignacionogpa@gmail.com
 
----
+---------------
 
-## 🛠️ Stack Técnico
+Skills & Tools
 
-**Lenguajes:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+» Languages:   Python, Java, JavaScript
+» Backend:     FastAPI, asyncio, aiohttp
+» AI / NLP:    HuggingFace Transformers, LangChain, n8n
+» Databases:   PostgreSQL, MySQL
+» DevOps:      Git, Docker, pytest
 
-**Herramientas & Frameworks:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+---------------
 
-**Áreas de interés:**  
-🤖 Inteligencia Artificial | ⚙️ Automatizaciones | 🔗 APIs | 📊 Procesamiento de Datos
+Featured Projects
 
----
+• CryptoLens CLI
+  ✦ Real-time crypto market snapshot — prices + Fear & Greed Index from the command line.
+  ✦ Links: https://github.com/nachixxs/cryptolens-cli
 
-## 📌 Proyectos Destacados
+• n8n Automations
+  ✦ AI-powered business automation workflows with n8n, APIs and LLMs.
+  ✦ Links: https://github.com/nachixxs/n8n-automatizaciones
 
-### 🛒 [E-Commerce Full-Stack](https://github.com/nachixxs/proyecto-java-utn)
-Plataforma de comercio electrónico con backend Java y frontend JavaScript
-- Arquitectura MVC con Java
-- Base de datos relacional MySQL
-- Sistema de autenticación y gestión de pedidos
-- **Proyecto grupal de 7 personas - 87 commits**
+• Python Exercises
+  ✦ 100+ exercises from basics to advanced — OOP, async, dataclasses, pytest.
+  ✦ Links: https://github.com/nachixxs/ejercicios-python
 
-### 🐍 [Ejercicios Python](https://github.com/nachixxs/ejercicios-python)
-Colección de +50 ejercicios prácticos de Python
-- Estructuras de datos (listas, diccionarios, tuplas)
-- Programación Orientada a Objetos
-- Funciones y manejo de archivos
-- **Documentación de progreso en aprendizaje**
+• UTN Final Project
+  ✦ Full-stack e-commerce system built with Java + JavaScript.
+  ✦ Links: https://github.com/nachixxs/proyecto-java-utn
 
-### 🔄 [Automatizaciones n8n](https://github.com/nachixxs/n8n-automatizaciones)
-Portfolio de workflows automatizados con IA *(En desarrollo)*
-- Integración de APIs múltiples
-- Procesamiento de datos en tiempo real
-- Webhooks y notificaciones automáticas
+------------------------
 
----
-
-## 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ignacionogpa@gmail.com)
+Thanks for stopping by! :)
+Feel free to say hi or build something cool together <3
