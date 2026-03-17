@@ -53,10 +53,10 @@ AI-powered business automation systems.
 Focus: workflow orchestration, AI integration, productivity automation.  
 https://github.com/nachixxs/n8n-automatizaciones
 
-### UTN Final Project
-Full-stack e-commerce platform (Java + JavaScript).  
-Focus: backend architecture, database design, frontend integration.  
-https://github.com/nachixxs/proyecto-java-utn
+### Crypto Market Intelligence API
+REST API for real-time crypto prices with NLP sentiment analysis.
+Stack: FastAPI · PostgreSQL · HuggingFace Transformers
+https://github.com/nachixxs/crypto-market-api
 
 ---
 
