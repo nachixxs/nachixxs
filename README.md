@@ -19,24 +19,31 @@ Currently:
 ## Tech Stack
 
 **Languages**
+
 Python, Java, JavaScript, SQL
 
 **Backend**
+
 FastAPI, SQLAlchemy, LangChain, LangChain Agents
 
 **AI / NLP**
+
 HuggingFace Transformers, Claude API, RAG Pipelines, ChromaDB
 
 **Data & Analysis**
+
 Pandas, NumPy, pandas-ta
 
 **Databases**
+
 PostgreSQL, MySQL, Redis
 
 **Tools**
+
 Docker, Git, pytest, Railway, Telegram Bot API
 
 **Frontend**
+
 React, Recharts, Tailwind
 
 ---
