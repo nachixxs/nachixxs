@@ -42,23 +42,23 @@ React, Recharts, Tailwind
 
 ---
 
-
-## Selected Projects
-
-### CryptoLens CLI
-Real-time crypto market snapshot tool built in Python.  
-Focus: API integration, CLI UX, data parsing.  
-https://github.com/nachixxs/cryptolens-cli
-
-### n8n Automation Workflows
-AI-powered business automation systems.  
-Focus: workflow orchestration, AI integration, productivity automation.  
-https://github.com/nachixxs/n8n-automatizaciones
+## Projects
 
 ### Crypto Market Intelligence API
-REST API for real-time crypto prices with NLP sentiment analysis.
-Stack: FastAPI · PostgreSQL · HuggingFace Transformers
+REST API for real-time cryptocurrency market analysis with NLP-powered sentiment scoring.  
+Stack: FastAPI · PostgreSQL · HuggingFace Transformers · Railway  
 https://github.com/nachixxs/crypto-market-api
+
+### Market Intelligence Platform *(in progress)*
+Full-stack financial intelligence platform integrating real-time technical signal analysis, 
+an autonomous LangChain news agent, a RAG document analyzer for financial PDFs, 
+and an AI-powered trade journal.  
+Stack: FastAPI · LangChain · Claude API · ChromaDB · PostgreSQL · Redis · React · Docker · Railway
+
+### TradeLog AI *(in progress)*
+AI-powered trading journal that calculates automated performance metrics and uses LangChain 
+to detect behavioral patterns in trade decisions across full trade history.  
+Stack: FastAPI · LangChain · Pandas · NumPy · PostgreSQL · React · Railway
 
 ---
 
