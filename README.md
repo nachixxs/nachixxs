@@ -19,19 +19,25 @@ Currently:
 ## Tech Stack
 
 **Languages**  
-Python, Java, JavaScript
+Python, Java, JavaScript, SQL
 
-**Backend**  
-FastAPI, asyncio, aiohttp
+**Backend**
+FastAPI, SQLAlchemy, LangChain, LangChain Agents
 
-**AI / NLP**  
-HuggingFace, Transformers, LangChain, n8n
+**AI / NLP**
+HuggingFace Transformers, Claude API, RAG Pipelines, ChromaDB
 
-**Databases**  
-PostgreSQL, MySQL
+**Data & Analysis**
+Pandas, NumPy, pandas-ta
 
-**Tools**  
-Docker, Git, pytest
+**Databases**
+PostgreSQL, MySQL, Redis
+
+**Tools**
+Docker, Git, pytest, Railway, Telegram Bot API
+
+**Frontend**
+React, Recharts, Tailwind
 
 ---
 
