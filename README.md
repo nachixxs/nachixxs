@@ -66,7 +66,7 @@ Stack: FastAPI · LangChain · Pandas · NumPy · PostgreSQL · React · Railway
 
 LinkedIn: https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/  
 Email: ignacionogpa@gmail.com  
-X: https://x.com/noguerolnacho_
+X: @noguerolnacho_
 
 ---
 
