@@ -1,45 +1,47 @@
 # Ignacio Noguerol
-
-Backend & AI Automation Developer  
-Python • FastAPI • AI Agents • Async APIs
+Python Backend & AI Engineer  
+FastAPI • LangChain • RAG Pipelines • Fintech Systems
 
 ---
 
 ## About Me
 
-I build automation systems and AI-powered tools focused on solving real-world problems.
+I build backend systems and AI-powered tools focused on financial data and market intelligence.
 
 Currently:
-- Building AI agents and workflow automations
-- Working with async Python APIs
-- Exploring applied NLP and LLM integrations
+- Building production REST APIs with FastAPI and PostgreSQL
+- Integrating LLMs and NLP models into real-world applications
+- Developing fintech tools combining technical analysis with AI-generated insights
+
+Open to remote Python / AI engineering roles.
 
 ---
 
 ## Tech Stack
 
-**Languages**: 
+**Languages**
 Python, Java, JavaScript, SQL
 
-**Backend**: 
+**Backend**
 FastAPI, SQLAlchemy, LangChain, LangChain Agents
 
-**AI / NLP**: 
+**AI / NLP**
 HuggingFace Transformers, Claude API, RAG Pipelines, ChromaDB
 
-**Data & Analysis**: 
+**Data & Analysis**
 Pandas, NumPy, pandas-ta
 
-**Databases**: 
+**Databases**
 PostgreSQL, MySQL, Redis
 
-**Tools**: 
+**Tools**
 Docker, Git, pytest, Railway, Telegram Bot API
 
-**Frontend**: 
+**Frontend**
 React, Recharts, Tailwind
 
 ---
+
 
 ## Selected Projects
 
@@ -60,20 +62,12 @@ https://github.com/nachixxs/crypto-market-api
 
 ---
 
-## Currently Improving
-
-- System design fundamentals  
-- Scalable backend architecture  
-- Production-ready AI integrations  
-
----
-
 ## Contact
 
-X: https://x.com/noguerolnacho_  
 LinkedIn: https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/  
 Email: ignacionogpa@gmail.com  
+X: https://x.com/noguerolnacho_
 
 ---
 
-Let’s build useful things.
+Let's build useful things.
