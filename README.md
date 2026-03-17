@@ -18,7 +18,7 @@ Currently:
 
 ## Tech Stack
 
-**Languages**  
+**Languages**
 Python, Java, JavaScript, SQL
 
 **Backend**
