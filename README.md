@@ -30,11 +30,11 @@ LangChain / LangGraph · Advanced RAG with pgvector · RAGAS (RAG evaluation) ·
 
 ## Projects
 
-### El Parador Bot
-WhatsApp AI agent for a real restaurant: handles table reservations and answers menu/policy questions through a custom RAG pipeline over the venue's FAQ, with reservations synced to Google Sheets via n8n. End to end: FastAPI + n8n + Claude API (tool use) + WhatsApp Cloud API + Voyage AI embeddings.
+### WhatsApp RAG Agent — El Parador Bot
+Built in 7 days, August 2026. WhatsApp AI agent for a real restaurant: handles table reservations and answers menu/policy questions through a custom RAG pipeline over the venue's FAQ, with reservations synced to Google Sheets via n8n. End to end: FastAPI + n8n + Claude API (tool use) + WhatsApp Cloud API + Voyage AI embeddings.
 → [repo link]
 
-*(In progress: a dedicated RAG-focused project and an MCP-based agent — portfolio actively being built)*
+*(In progress since August 2026: an order-taking agent for the same restaurant, a dedicated RAG-focused project, and an MCP-based agent — portfolio actively being built)*
 
 ---
 
