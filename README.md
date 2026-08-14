@@ -1,73 +1,45 @@
 # Ignacio Noguerol
-Python Backend & AI Engineer  
-FastAPI • LangChain • RAG Pipelines • Fintech Systems
+
+Junior AI Engineer in progress · Python · FastAPI · RAG · LLMs in production
 
 ---
 
-## About Me
+## About me
 
-I build backend systems and AI-powered tools focused on financial data and market intelligence.
+I build backends and AI-powered systems end to end — not just prototypes. Right now I'm focused on shipping real projects to production: from designing the flow to deploying it.
 
 Currently:
-- Building production REST APIs with FastAPI and PostgreSQL
-- Integrating LLMs and NLP models into real-world applications
-- Developing fintech tools combining technical analysis with AI-generated insights
 
-Open to remote Python / AI engineering roles.
+- Building agents with the Claude API (tool use) on top of FastAPI, with custom RAG for context-aware responses
+- Wiring real channels (WhatsApp Cloud API) into automated workflows with n8n
+- Going deeper into advanced RAG, LangGraph, and production deployment (Docker, VPS)
+
+Looking for my first role as a Junior AI Engineer / LLM Engineer, remote.
 
 ---
 
-## Tech Stack
+## Stack
 
-**Languages**
-Python, Java, JavaScript, SQL
+**Using today, in real projects:**
+Python · FastAPI · Claude API (tool use) · RAG (embeddings + semantic search) · PostgreSQL/SQL · n8n · WhatsApp Cloud API · Git
 
-**Backend**
-FastAPI, SQLAlchemy, LangChain, LangChain Agents
-
-**AI / NLP**
-HuggingFace Transformers, Claude API, RAG Pipelines, ChromaDB
-
-**Data & Analysis**
-Pandas, NumPy, pandas-ta
-
-**Databases**
-PostgreSQL, MySQL, Redis
-
-**Tools**
-Docker, Git, pytest, Railway, Telegram Bot API
-
-**Frontend**
-React, Recharts, Tailwind
+**Currently deepening:**
+LangChain / LangGraph · Advanced RAG with pgvector · RAGAS (RAG evaluation) · Docker & Docker Compose · VPS deployment (Hetzner) · MCP · GitHub Actions
 
 ---
 
 ## Projects
 
-### Crypto Market Intelligence API
-REST API for real-time cryptocurrency market analysis with NLP-powered sentiment scoring.  
-Stack: FastAPI · PostgreSQL · HuggingFace Transformers · Railway  
-https://github.com/nachixxs/crypto-market-api
+### El Parador Bot
+WhatsApp AI agent for a real restaurant: handles table reservations and answers menu/policy questions through a custom RAG pipeline over the venue's FAQ, with reservations synced to Google Sheets via n8n. End to end: FastAPI + n8n + Claude API (tool use) + WhatsApp Cloud API + Voyage AI embeddings.
+→ [repo link]
 
-### Market Intelligence Platform *(in progress)*
-Full-stack financial intelligence platform integrating real-time technical signal analysis, 
-an autonomous LangChain news agent, a RAG document analyzer for financial PDFs, 
-and an AI-powered trade journal.  
-Stack: FastAPI · LangChain · Claude API · ChromaDB · PostgreSQL · Redis · React · Docker · Railway
-
-### TradeLog AI *(in progress)*
-AI-powered trading journal that calculates automated performance metrics and uses LangChain 
-to detect behavioral patterns in trade decisions across full trade history.  
-Stack: FastAPI · LangChain · Pandas · NumPy · PostgreSQL · React · Railway
+*(In progress: a dedicated RAG-focused project and an MCP-based agent — portfolio actively being built)*
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/  
-Email: ignacionogpa@gmail.com  
-X: @noguerolnacho_
-
----
-
-Let's build useful things.
+- LinkedIn: [linkedin.com/in/ignacio-noguerol-54aa942b0](https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/)
+- Email: ignacionogpa@gmail.com
+- X: [@noguerolnacho_](https://x.com/noguerolnacho_)
