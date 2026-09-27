@@ -22,4 +22,6 @@ AI / Backend Engineer · General Alvear, Mendoza, Argentina · Open to remote ro
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/) · [ignacionogpa@gmail.com](mailto:ignacionogpa@gmail.com) · [X](https://x.com/noguerolnacho_)
+[LinkedIn](https://www.linkedin.com/in/ignacio-noguerol-54aa942b0/) 
+[ignacionogpa@gmail.com](mailto:ignacionogpa@gmail.com) 
+[X](https://x.com/noguerolnacho_)
