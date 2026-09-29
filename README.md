@@ -1,15 +1,19 @@
 # Ignacio Noguerol
 
-I build WhatsApp assistants, Claude-powered agents and small custom systems that take
-repetitive work off small businesses. I'm the technical co-founder of **Accelerate.ai**,
-an AI automation agency for small businesses based in Mendoza, Argentina, and I'm open to
-remote AI / backend engineering roles.
+I build custom software for small businesses: management systems that replace paper
+notebooks and scattered spreadsheets, with AI added where it actually saves time. I'm the
+technical co-founder of **Accelerate.ai**, an AI automation agency for small businesses
+based in Mendoza, Argentina, and I'm open to remote AI / backend engineering roles.
 
 ## For businesses: Accelerate.ai
 
-If your team spends the day answering the same WhatsApp questions, booking appointments by
-hand, copying orders into a spreadsheet or reconciling cash in notebooks, that's what we
-automate.
+We build a system around how your business already works: cash and sales records, orders,
+appointments, stock, customer accounts and reports, in one place instead of five notebooks
+and a spreadsheet. You don't adapt your business to generic software; the system adapts to
+you, and keeps changing as your business does.
+
+When it helps, the system includes an AI assistant, for example so customers can book or
+order over WhatsApp. The assistant is one part of the system, not the product.
 
 - **Free process audit first.** A 30–45 minute call to find where your team loses the most time.
 - **One clear proposal.** What it costs to build, what it costs per month, and a delivery date.
@@ -25,14 +29,13 @@ fictional data.
 
 | Project | What it shows |
 |---|---|
-| [turnos-citas](https://github.com/nachixxs/turnos-citas) | WhatsApp booking agent with Claude tool use. It checks real availability before confirming, and a whole class of text bugs is made structurally impossible. 148 tests run without credentials or network. |
-| [quiniela-system](https://github.com/nachixxs/quiniela-system) | Multi-tenant cash-ledger system: append-only movements, a pure-function cash-count engine, idempotent writes, argon2 auth. FastAPI, PostgreSQL, React and TypeScript, with CI against a real PostgreSQL, Playwright E2E and Docker. |
-| [whatsapp-rag-agent](https://github.com/nachixxs/whatsapp-rag-agent) | RAG over a restaurant FAQ with Voyage AI embeddings. The similarity threshold was measured, not guessed, and Claude tool use routes each message between booking and FAQ. |
-| [accelerate-ai-automations](https://github.com/nachixxs/accelerate-ai-automations) | n8n workflow and Claude prompts for lead qualification: classify, log to Google Sheets, alert the owner. |
+| [quiniela-system](https://github.com/nachixxs/quiniela-system) | Custom management system for a lottery agency that replaces seven paper cash notebooks: a multi-tenant, append-only ledger, a pure-function cash-count engine, idempotent writes, argon2 auth. FastAPI, PostgreSQL, React and TypeScript, with CI against a real PostgreSQL, Playwright E2E and Docker. |
+| [turnos-citas](https://github.com/nachixxs/turnos-citas) | Appointment booking system with a WhatsApp assistant as its front end, built on Claude tool use. It checks real availability before confirming, and a whole class of text bugs is made structurally impossible. 148 tests run in CI without credentials or network. |
+| [whatsapp-rag-agent](https://github.com/nachixxs/whatsapp-rag-agent) | Restaurant bookings and FAQ answers over WhatsApp, with RAG on Voyage AI embeddings. The similarity threshold was measured, not guessed, and Claude tool use routes each message between booking and FAQ. |
 
-**Stack:** Python, FastAPI, Pydantic, SQLAlchemy, Alembic, pytest · PostgreSQL · Claude API
-(tool use), RAG, Voyage AI · n8n, WhatsApp Cloud API, Google Sheets API · React, TypeScript,
-Astro · Docker, GitHub Actions
+**Stack:** Python, FastAPI, Pydantic, SQLAlchemy, Alembic, pytest · PostgreSQL · React,
+TypeScript, Astro · Claude API (tool use), RAG, Voyage AI · n8n, WhatsApp Cloud API,
+Google Sheets API · Docker, GitHub Actions
 
 ## Contact
 
