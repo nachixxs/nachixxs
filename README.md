@@ -31,6 +31,7 @@ fictional data.
 |---|---|
 | [quiniela-system](https://github.com/nachixxs/quiniela-system) | Custom management system for a lottery agency that replaces seven paper cash notebooks: a multi-tenant, append-only ledger, a pure-function cash-count engine, idempotent writes, argon2 auth. FastAPI, PostgreSQL, React and TypeScript, with CI against a real PostgreSQL, Playwright E2E and Docker. |
 | [turnos-citas](https://github.com/nachixxs/turnos-citas) | Appointment booking system with a WhatsApp assistant as its front end, built on Claude tool use. It checks real availability before confirming, and a whole class of text bugs is made structurally impossible. 148 tests run in CI without credentials or network. |
+| [whatsapp-order-agent](https://github.com/nachixxs/whatsapp-order-agent) | Order-taking system for a small business, in progress: a WhatsApp assistant collects the order, writes it to Google Sheets only after the customer confirms, and hands the conversation to a person in Chatwoot when it needs human judgment. A from-scratch rewrite that turns 120 production defenses into 55 numbered rules, each one with a test, under a hard line budget. |
 | [whatsapp-rag-agent](https://github.com/nachixxs/whatsapp-rag-agent) | Restaurant bookings and FAQ answers over WhatsApp, with RAG on Voyage AI embeddings. The similarity threshold was measured, not guessed, and Claude tool use routes each message between booking and FAQ. |
 
 **Stack:** Python, FastAPI, Pydantic, SQLAlchemy, Alembic, pytest · PostgreSQL · React,
